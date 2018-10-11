@@ -1,2 +1,2 @@
 # FxTabbedApplicationExample
-A JavaFx tabs based app example 
+A JavaFx tab based app example 
