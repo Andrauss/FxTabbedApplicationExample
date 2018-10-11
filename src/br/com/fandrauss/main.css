@@ -1,0 +1,13 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+/* Estilo para remover o background do painel com abas */
+.tab-pane>*.tab-header-area>*.tab-header-background { 
+-fx-background-color: transparent;
+-fx-border-color: transparent transparent #BABABA transparent;
+}
